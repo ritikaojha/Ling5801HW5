@@ -1,8 +1,2 @@
-# CS224u: Natural Language Understanding
-
-Code for [the Stanford course](http://web.stanford.edu/class/cs224u/)
-
-# Instructors
-
-* [Bill MacCartney](http://nlp.stanford.edu/~wcmac/)
-* [Christopher Potts](http://web.stanford.edu/~cgpotts/)
+# Ling5801HW5
+OSU Ling HW5 Word similarity and manipulation to vector spaces working with the code from Chris Potts’ course
